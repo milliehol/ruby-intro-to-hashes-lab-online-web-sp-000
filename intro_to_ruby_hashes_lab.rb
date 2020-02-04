@@ -3,7 +3,7 @@ empty_hash = {}
 end
 
 def actor
- actor = 
+ actor = { :railroads=> 4}
 end
 
 def monopoly
